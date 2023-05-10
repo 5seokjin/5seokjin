@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 # 🌱Git Status & Solved.ac
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5seokjin&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osj5377)](https://solved.ac/osj5377/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={osj5377}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=osj5377&theme=cold)
 
 
